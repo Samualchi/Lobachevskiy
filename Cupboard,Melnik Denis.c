@@ -43,7 +43,7 @@ int main()
              m1 = w * h * a * p1;
              m2 = (h - b - b) * d * b *2 * p2;
              m3 = w * d * b *2 * p2;
-             m4 = (h - b) * w * c*2 * p3;
+             m4 = (h - b) * w * c * p3;
              m5 = (w - b - b) * d * b * p2 * k;
              fin = (m1 + m2 + m3 + m4 + m5) / 1000;
              printf("\n %f kg", fin);
