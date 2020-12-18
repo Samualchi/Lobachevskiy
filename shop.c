@@ -4,7 +4,7 @@
  struct thing
     {
         int barcode;
-        char name[10];
+        char name[14];
         int cost;
         float discount;
         float total;
