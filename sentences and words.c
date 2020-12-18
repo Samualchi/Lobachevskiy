@@ -8,6 +8,7 @@ int main()
 	char a[]= "My name is Denis. I'm 18 years old";
 	int words = 0;
 	int digits = 0;
+	int characters = 0;
 	printf("Input \n");
 	
 
